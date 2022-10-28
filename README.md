@@ -1,8 +1,7 @@
 ## Libft
 This is the first Project from the 42-Core_Curriculum.<br> 
-The task is to create your own C library with some highly useful standard functions for later use.
+The task is to create your own C library with some useful standard functions for later use.
 
-(Subject to change)
 This library is an expanded version of the "original" project and will continue to expand with further projects.
 
 ## How to use it:
